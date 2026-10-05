@@ -1,0 +1,32 @@
+# Thư mục build
+build/
+dist/
+target/
+*.class
+
+# IDE và Editor
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# File nhạy cảm / bảo mật
+credentials.txt
+*.env
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
